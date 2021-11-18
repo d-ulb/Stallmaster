@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_Battery_Interface|SchDesignator=U_Battery_Interface|FileName=Battery_Interface.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Battery_Interface.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=U_PV_Inputs|SchDesignator=U_PV_Inputs|FileName=PV_Inputs.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PV_Inputs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
